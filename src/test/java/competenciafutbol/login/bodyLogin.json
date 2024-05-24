@@ -1,0 +1,6 @@
+{
+  "returnSecureToken": true,
+  "email": "%s",
+  "password": "%s",
+  "clientType": "CLIENT_TYPE_WEB"
+}
